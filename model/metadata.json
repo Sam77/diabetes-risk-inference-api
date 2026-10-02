@@ -1,0 +1,17 @@
+{
+  "algorithm": "LogisticRegression (L1, liblinear)",
+  "C": 1.0,
+  "features": [
+    "pregnancies",
+    "glucose",
+    "blood_pressure",
+    "skin_thickness",
+    "insulin",
+    "bmi",
+    "diabetes_pedigree",
+    "age"
+  ],
+  "test_auc": 0.787,
+  "test_recall": 0.66,
+  "test_mcc": 0.381
+}
